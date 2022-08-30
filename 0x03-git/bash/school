@@ -1,2 +1,2 @@
 #!/bin/bash
-echo  merge conflict resolve
+echo  "The school is open!"
